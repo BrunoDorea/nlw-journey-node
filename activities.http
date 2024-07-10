@@ -1,0 +1,11 @@
+### CREATE ACTIVITY
+POST http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/activities
+Content-Type: application/json
+
+{
+  "title": "Academia",
+  "occurs_at": "2024-07-11 09:00:00"
+}
+
+### GET ACTIVITY
+GET http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/activities

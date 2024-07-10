@@ -1,0 +1,11 @@
+### CREATE LINKS
+POST http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/links
+Content-Type: application/json
+
+{
+  "title": "Reserva do AirBnB",
+  "url": "https://airbnb.com/reserva-journey"
+}
+
+### GET LINKS
+GET http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/links

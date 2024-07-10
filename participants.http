@@ -1,0 +1,10 @@
+### GET PARTICIPANTS
+GET http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/participants
+
+### CREATE INVITE
+POST http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/invites
+Content-Type: application/json
+
+{
+  "email": "bia@gmail.com"
+}
