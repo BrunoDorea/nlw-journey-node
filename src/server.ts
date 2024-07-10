@@ -42,5 +42,5 @@ app.register(getTripDetails)
 app.register(getParticipant)
 
 app.listen({ port: env.PORT }).then(() => {
-  console.log(`Servidor iniciado ${env.API_BASE_URL}:${env.PORT}`)
+  console.log(`Servidor iniciado ${env.API_BASE_URL}`)
 })
