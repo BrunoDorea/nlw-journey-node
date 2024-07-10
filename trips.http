@@ -16,3 +16,16 @@ GET http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed/confirm
 
 ### CONFIRM PARTICIPANT
 GET http://localhost:3333/participants/1ef57fb1-06b4-4af6-bd6e-396df67945bd/confirm
+
+### UPDATE TRIP
+PUT http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed
+Content-Type: application/json
+
+{
+  "destination": "Salvador BA",
+  "starts_at": "2024-07-10 18:00:00",
+  "ends_at": "2024-07-16 18:00:00"
+}
+
+### TRIP DETAILS
+GET http://localhost:3333/trips/396c6c65-b534-400f-8d25-1e3824a024ed

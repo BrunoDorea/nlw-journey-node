@@ -8,3 +8,6 @@ Content-Type: application/json
 {
   "email": "bia@gmail.com"
 }
+
+### GET PARTICIPANT
+GET http://localhost:3333/participants/ea0b838e-c3a8-4454-8d2f-f9f13ecf9e52
