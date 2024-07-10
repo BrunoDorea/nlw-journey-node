@@ -1,8 +1,6 @@
-# Plan.ner (NLW Journey - Trilha Node.js)
+# Plann.er (NLW Journey - Trilha Node.js)
 
 [![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/8037db81-06e3-4f44-91f1-c083cdc79b28.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/8037db81-06e3-4f44-91f1-c083cdc79b28)
-
-[![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)](https://brunodorea.github.io/)
 
 ## 💼 Sobre o projeto
 
